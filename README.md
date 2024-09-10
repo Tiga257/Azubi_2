@@ -61,13 +61,16 @@ cd eda-indian-startups
 3. Install the required dependencies
 pip install -r requirements.txt
 
-Usage
+## Usage
+
 To run the analysis, simply open the Jupyter notebook and execute the cells in the correct order. All code related to data preprocessing, visualization, and analysis will be found in the notebook.
 
-EDA Process
+## EDA Process
+
 The Exploratory Data Analysis (EDA) is divided into the following stages:
 
-Data Cleaning
+## Data Cleaning
+
 Handling missing values
 Converting data types (e.g., dates, currency)
 Removing duplicates
@@ -81,7 +84,8 @@ Statistical Analysis
 Relationship between funding amount and industry
 Correlation between number of investors and funding amounts
 Multivariate analysis to understand the combined impact of location, industry, and funding type on startup success
-Results
+
+## Results
 The analysis uncovered important trends such as:
 
 Cities like Bangalore, Mumbai, and Delhi are hubs for startups.
@@ -91,7 +95,8 @@ There is a positive correlation between the number of investors and the amount o
 Conclusions
 This EDA has provided valuable insights into the Indian startup ecosystem, showing the dominance of tech startups, the importance of location, and the various factors affecting startup success.
 
-Future Work
+## Future Work
+
 Perform predictive analysis to forecast funding trends.
 Analyze startups from different regions for a comparative study.
 Conduct a time-series analysis of startup funding over the years.
@@ -100,5 +105,6 @@ List any sources or datasets used in the project.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contributors
+## Contributors
+
 Prince Okyere Boadu (Tiga257)
