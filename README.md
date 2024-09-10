@@ -53,7 +53,7 @@ Upon completing the analysis, the following outcomes were achieved:
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/eda-indian-startups.git
+   git clone https://github.com/Tiga257/eda-indian-startups.git
 
 2. Navigate to the project directory
 cd eda-indian-startups
